@@ -1,0 +1,24 @@
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\bin\Debug\DynamicSplashScreen.exe.config
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\bin\Debug\DynamicSplashScreen.exe
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\bin\Debug\DynamicSplashScreen.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\DynamicSplashScreen.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\MainWindow.baml
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\AnimatedSplashScreenWindow.baml
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\AnimatedSplashScreenWindow.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\App.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\DynamicSplashScreen_MarkupCompile.cache
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\DynamicSplashScreen.g.resources
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\DynamicSplashScreen.Properties.Resources.resources
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\DynamicSplashScreen.csproj.GenerateResource.Cache
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\DynamicSplashScreen.exe
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\DynamicSplashScreen.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\ProgressWait.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\DynamicSplashScreen_MarkupCompile.lref
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\!!!!WPF_Projects\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\ProgressWait.baml
+C:\Users\Mariusz\Documents\GitHub\DynamicSplashScreen-master\DynamicSplashScreen\bin\Debug\DynamicSplashScreen.exe.config
+C:\Users\Mariusz\Documents\GitHub\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\DynamicSplashScreen.exe
+C:\Users\Mariusz\Documents\GitHub\DynamicSplashScreen-master\DynamicSplashScreen\obj\Debug\DynamicSplashScreen.pdb
+C:\Users\Mariusz\Documents\GitHub\ProgressBar\bin\Debug\DynamicSplashScreen.exe.config
+C:\Users\Mariusz\Documents\GitHub\ProgressBar\obj\Debug\DynamicSplashScreen.exe
+C:\Users\Mariusz\Documents\GitHub\ProgressBar\obj\Debug\DynamicSplashScreen.pdb
